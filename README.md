@@ -178,25 +178,25 @@ Esto ha permitido:
 
 
 
-\## Capturas del proyecto
+## Capturas del proyecto
 
+### Página de inicio
+![Inicio](assets/home.png)
 
+### Tienda
+![Tienda](assets/tienda.png)
 
-\*(Añadir aquí imágenes de:)\*
+### Galletas
+![Galletas](assets/galletas.png)
 
+### Carrito
+![Carrito](assets/carrito.png)
 
+### Finalizar compra
+![Checkout](assets/finalizar-compra.png)
 
-\- Página de inicio
-
-\- Catálogo de productos
-
-\- Página de producto
-
-\- Carrito de compra
-
-\- Checkout
-
-\- Panel de administración
+### Mi cuenta
+![Mi cuenta](assets/mi-cuenta.png)
 
 
 
